@@ -1,0 +1,16 @@
+# Python bytecode (prevents __pycache__ folders)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database file (prevents uploading your local habit data)
+habit_tracker.db
+
+# Virtual environments (if you use them)
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
